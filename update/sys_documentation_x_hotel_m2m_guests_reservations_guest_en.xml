@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="guest" label="Guest" language="en" table="x_hotel_m2m_guests_reservations">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>guest</element>
+            <help/>
+            <hint/>
+            <label>Guest</label>
+            <language>en</language>
+            <name>x_hotel_m2m_guests_reservations</name>
+            <plural>Guests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-21 17:55:58</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>2fc80bc70fa5320039b7c3ace1050ef2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Guest</sys_name>
+            <sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope>
+            <sys_update_name>sys_documentation_x_hotel_m2m_guests_reservations_guest_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-21 17:55:58</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
